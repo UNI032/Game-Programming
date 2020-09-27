@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Core1</string>
+    <string name="sneeze">打喷嚏</string>
+    <string name="blowNose">吹鼻子</string>
+    <string name="takeMedi">大郎，该吃药了</string>
+</resources>
